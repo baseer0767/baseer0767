@@ -1,16 +1,46 @@
-## Hi there 👋
+# Abdul Baseer
 
-<!--
-**baseer0767/baseer0767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student (4th Year)**  
+[LinkedIn](https://www.linkedin.com/in/abdubaseer786)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Top Skills & Technologies
+**Programming:** Python, Django, Node.js  
+**Databases:** MongoDB  
+**Machine Learning & AI:** Machine Learning, Deep Learning, Data Science, Neural Networks, Time Series Forecasting  
+**Web Development:** Bootstrap, Tailwind CSS  
+**IoT:** ESP32, Sensors, Remote Reprogramming
+
+---
+
+## 🌟 Notable Projects
+- **EduLearn Platform:**  
+  E-learning web app featuring course management, video lessons, quizzes, and certificates.
+
+- **Online Furniture Shop:**  
+  Full-stack Django e-commerce project with cart, orders, discounts, and supplier management.
+
+- **Handwritten Digit Recognition:**  
+  Neural Network solution for MNIST digit recognition using ReLU and Softmax.
+
+- **Air Quality Monitoring System:**  
+  Real-time sensor data collection (ESP32) with Django web portal integration.
+
+- **Bluetooth Chat Application:**  
+  Client-server chat over Bluetooth, compatible with laptops and mobile devices.
+
+---
+
+## 🏅 Achievements
+- Delivered multiple academic projects in AI, web development, and IoT.
+- Hands-on in both frontend and backend development.
+- Practical experience in forecasting, health monitoring, and IoT-based systems.
+
+---
+
+## 🎯 Motto & Interests
+**Motto:** “Keep building, keep learning.”
+
+Enjoys solving math puzzles, coding challenges, and exploring new tech stacks.  
+Passionate about AI and its real-world impact.
