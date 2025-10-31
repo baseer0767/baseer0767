@@ -1,41 +1,47 @@
 # Abdul Baseer
 
-**Computer Science Student (4th Year)**  
+**Computer Information System Engineer (4th Year)**  
 [LinkedIn](https://www.linkedin.com/in/abdubaseer786)
 
 ---
 
 ## 💼 Top Skills & Technologies
-**Programming:** Python, Django, Node.js  
-**Databases:** MongoDB  
-**Machine Learning & AI:** Machine Learning, Deep Learning, Data Science, Neural Networks, Time Series Forecasting  
-**Web Development:** Bootstrap, Tailwind CSS  
-**IoT:** ESP32, Sensors, Remote Reprogramming
+**Programming:** Python, JavaScript, C++, Jupyter Notebook  
+**Frameworks & Libraries:** Django, Node.js  
+**Databases:** MongoDB, PostgreSQL 
+**Machine Learning & AI:** Neural Networks, Deep Learning, Data Science  
+**Web Development:** Tailwind CSS, HTML, CSS  
+**IoT & Embedded:** ESP32, Sensors, Remote Reprogramming  
 
 ---
 
 ## 🌟 Notable Projects
-- **EduLearn Platform:**  
-  E-learning web app featuring course management, video lessons, quizzes, and certificates.
 
-- **Online Furniture Shop:**  
-  Full-stack Django e-commerce project with cart, orders, discounts, and supplier management.
+- **Audience Engage Analytics**  
+  Python-based analytics platform for audience engagement insights.
 
-- **Handwritten Digit Recognition:**  
-  Neural Network solution for MNIST digit recognition using ReLU and Softmax.
+- **Smart LPG Monitoring**  
+  IoT solution using JavaScript, C++, and web technologies for remote LPG level monitoring and alerts.
 
-- **Air Quality Monitoring System:**  
-  Real-time sensor data collection (ESP32) with Django web portal integration.
 
-- **Bluetooth Chat Application:**  
-  Client-server chat over Bluetooth, compatible with laptops and mobile devices.
+- **Air Quality Monitoring System**  
+  Combines HTML, CSS, JavaScript, and C++ for real-time sensor data visualization and web portal integration.
+
+- **Document Management System (DMS)**  
+  A Python-powered solution designed to simplify document organization and retrieval. With DMS, you no longer need to search endlessly through Google Drive — simply use the    smart search feature to instantly find and access your documents, all in one place.
+
+- **Image Classification**  
+  Jupyter Notebook project demonstrating image classification techniques and models.
+
+- **Handwritten Digits Recognition (AI_PROJECT)**  
+  Neural network solution for MNIST digit recognition using Python.
 
 ---
 
 ## 🏅 Achievements
-- Delivered multiple academic projects in AI, web development, and IoT.
-- Hands-on in both frontend and backend development.
-- Practical experience in forecasting, health monitoring, and IoT-based systems.
+- Delivered multiple academic and practical projects in AI, web development, and IoT.
+- Hands-on experience in both frontend and backend development.
+- Practical expertise in forecasting, health monitoring, and IoT-based systems.
 
 ---
 
